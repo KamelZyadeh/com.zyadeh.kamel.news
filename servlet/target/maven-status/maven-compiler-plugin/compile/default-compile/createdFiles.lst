@@ -6,8 +6,8 @@ com/zyadeh/kamel/dao/impl/NewsDAO.class
 com/zyadeh/kamel/dao/impl/TagDAO.class
 com/zyadeh/kamel/entities/Role.class
 com/zyadeh/kamel/command/impl/LoginUserCommand.class
-com/zyadeh/kamel/entities/Tag.class
 com/zyadeh/kamel/command/impl/RegisterUserCommand.class
+com/zyadeh/kamel/entities/Tag.class
 com/zyadeh/kamel/dao/impl/AuthorDAO.class
 com/zyadeh/kamel/entities/User.class
 com/zyadeh/kamel/service/impl/RoleService.class
