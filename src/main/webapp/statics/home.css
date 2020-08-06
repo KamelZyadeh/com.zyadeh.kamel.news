@@ -1,0 +1,19 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.home-container{
+    height: 100%;
+    width: 100%;
+    display: grid;
+}
+
+.home-container form {
+    align-self: start;
+    justify-self: start;
+}
+
+.home-container form div {
+    margin-bottom: 10px;
+}
